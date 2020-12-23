@@ -1,7 +1,7 @@
 {
   "name": "Initial Web App",
   "short_name": "Initial Web App",
-  "theme_color": "black-translucent",
+  "theme_color": "#121212",
   "background_color": "#ffffff",
   "display": "standalone",
   "scope": ".",
